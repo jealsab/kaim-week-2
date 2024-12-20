@@ -65,5 +65,3 @@ def plot_cluster_statistics(cluster_stats):
     plt.show()
 
 
-# Assuming 'aggregated_data' has been created and normalized already
-# Now compute the statistics and plot

@@ -29,5 +29,3 @@ def plot_top_3_applications(df):
     plt.xticks(rotation=45, ha='right')
     plt.show()
 
-# Example usage:
-# plot_top_3_applications(df)
