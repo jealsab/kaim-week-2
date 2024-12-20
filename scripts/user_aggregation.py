@@ -10,7 +10,6 @@ def aggregate_metrics(df):
     Returns:
     pd.DataFrame: Aggregated dataframe.
     """
-#   import pandas as pd
 
     # Required columns for engagement tracking
     required_columns = [
